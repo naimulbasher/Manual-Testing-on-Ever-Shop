@@ -69,8 +69,8 @@ This repository contains the following files:
 
 For any queries, feel free to reach out to me:
 
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
-- **GitHub**: [your-github-profile](https://github.com/your-username)
+- **Email**: [My-email@example.com](naimulbasher122@gmail.com)
+- **GitHub**: [My-github-profile](https://github.com/naimulbasher/)
 
 ---
 
