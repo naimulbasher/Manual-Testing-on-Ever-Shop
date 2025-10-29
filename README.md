@@ -53,7 +53,7 @@ This repository contains the following files:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/evershop-manual-testing.git
+   git clone https://github.com/naimulbasher/evershop-manual-testing.git
    ```
 
 2. Navigate to the folder containing the testing documentation:
@@ -69,8 +69,8 @@ This repository contains the following files:
 
 For any queries, feel free to reach out to me:
 
-- **Email**: [My-email@example.com](naimulbasher122@gmail.com)
-- **GitHub**: [My-github-profile](https://github.com/naimulbasher/)
+- **Email**: (naimulbasher122@gmail.com)
+- **GitHub**: (https://github.com/naimulbasher/)
 
 ---
 
