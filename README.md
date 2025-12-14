@@ -71,7 +71,7 @@ For any queries, feel free to reach out to me:
 
 - **Email**: (naimulbasher122@gmail.com)
 - **GitHub**: (https://github.com/naimulbasher/)
-
+- **LinkedIn**: (https://www.linkedin.com/in/naimul-basher/)
 ---
 
 🌟 **Happy Testing!** 🌟
